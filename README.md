@@ -1,4 +1,4 @@
-# auto_urban_planning-design
+# auto_urban_planning&design
 城市详细规划城市方案自动生成
 ## 城市详细规划方案自动生成
 ### 技术路线
